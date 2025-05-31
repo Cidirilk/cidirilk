@@ -1,7 +1,9 @@
 <h1>Hi there, I'm Charalampos Kliridis 👋 </h1>
 
 
-<p>I'm a versatile and adaptable professional with a diverse background in music and software testing. I have a strong passion for learning and exploring new things. Currently, I'm working as a QA Software Engineer at Playtech.</p>
+<p>I'm a versatile and adaptable professional with a diverse background in music and software testing. 
+I have a strong passion for learning and exploring new things.  In my Free time I’m exploring <b>Code 
+& Music</b>.  Currently, I'm working as a Senior Quality Assurance Software Engineer at Playtech.  </p>
 <h2 align="left">About me</h2>
 
 - 🔭 I’m currently working on [Playtech](https://www.playtech.com/)
